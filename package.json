@@ -1,5 +1,5 @@
 {
-  "name": "no-name",
+  "name": "com.vaadin.tutorial.crm",
   "license": "UNLICENSED",
   "dependencies": {
     "@polymer/polymer": "3.2.0",
@@ -16,5 +16,23 @@
     "raw-loader": "3.0.0",
     "compression-webpack-plugin": "3.0.1"
   },
-  "vaadinAppPackageHash": "5032566111f923105313ce3de8d70eb150a0e3bec3909ba166b49af6764c50c6"
+  "vaadinAppPackageHash": "5032566111f923105313ce3de8d70eb150a0e3bec3909ba166b49af6764c50c6",
+  "description": "This repository contains the source code for the [Java Web App development tutorial series](https://vaad.in/37pHRmY).",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/silvachamal/cslk.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/silvachamal/cslk/issues"
+  },
+  "homepage": "https://github.com/silvachamal/cslk#readme"
 }
